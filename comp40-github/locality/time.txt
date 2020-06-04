@@ -1,0 +1,126 @@
+using block-major mapping
+image name: flowers.ppm
+image size: 373728 pixels
+rotation amount: 90 degrees
+time per pixel: 181.398678
+total time: 67793765.000000
+---------------------------------------------
+using block-major mapping
+image name: flowers.ppm
+image size: 373728 pixels
+rotation amount: 180 degrees
+time per pixel: 181.979996
+total time: 68011020.000000
+---------------------------------------------
+using block-major mapping
+image name: flowers.ppm
+image size: 373728 pixels
+rotation amount: 270 degrees
+time per pixel: 180.269437
+total time: 67371736.000000
+---------------------------------------------
+using row-major mapping
+image name: flowers.ppm
+image size: 373728 pixels
+rotation amount: 90 degrees
+time per pixel: 120.233440
+total time: 44934603.000000
+---------------------------------------------
+using row-major mapping
+image name: flowers.ppm
+image size: 373728 pixels
+rotation amount: 180 degrees
+time per pixel: 80.351205
+total time: 30029495.000000
+---------------------------------------------
+using row-major mapping
+image name: flowers.ppm
+image size: 373728 pixels
+rotation amount: 270 degrees
+time per pixel: 115.518382
+total time: 43172454.000000
+---------------------------------------------
+using col-major mapping
+image name: flowers.ppm
+image size: 373728 pixels
+rotation amount: 90 degrees
+time per pixel: 110.549937
+total time: 41315607.000000
+---------------------------------------------
+using col-major mapping
+image name: flowers.ppm
+image size: 373728 pixels
+rotation amount: 180 degrees
+time per pixel: 171.493993
+total time: 64092107.000000
+---------------------------------------------
+using col-major mapping
+image name: flowers.ppm
+image size: 373728 pixels
+rotation amount: 270 degrees
+time per pixel: 112.096378
+total time: 41893555.000000
+---------------------------------------------
+using block-major mapping
+image name: large/mobo.ppm
+image size: 49939200 pixels
+rotation amount: 90 degrees
+time per pixel: 180.896691
+total time: 9033836052.000000
+---------------------------------------------
+using block-major mapping
+image name: large/mobo.ppm
+image size: 49939200 pixels
+rotation amount: 180 degrees
+time per pixel: 179.633997
+total time: 8970778093.000000
+---------------------------------------------
+using block-major mapping
+image name: large/mobo.ppm
+image size: 49939200 pixels
+rotation amount: 270 degrees
+time per pixel: 183.738885
+total time: 9175772943.000000
+---------------------------------------------
+using row-major mapping
+image name: large/mobo.ppm
+image size: 49939200 pixels
+rotation amount: 90 degrees
+time per pixel: 188.479258
+total time: 9412503365.000000
+---------------------------------------------
+using row-major mapping
+image name: large/mobo.ppm
+image size: 49939200 pixels
+rotation amount: 180 degrees
+time per pixel: 76.172488
+total time: 3803993136.000000
+---------------------------------------------
+using row-major mapping
+image name: large/mobo.ppm
+image size: 49939200 pixels
+rotation amount: 270 degrees
+time per pixel: 183.608604
+total time: 9169266776.000000
+---------------------------------------------
+using col-major mapping
+image name: large/mobo.ppm
+image size: 49939200 pixels
+rotation amount: 90 degrees
+time per pixel: 143.184388
+total time: 7150513770.000000
+---------------------------------------------
+using col-major mapping
+image name: large/mobo.ppm
+image size: 49939200 pixels
+rotation amount: 180 degrees
+time per pixel: 266.658789
+total time: 13316726576.000000
+---------------------------------------------
+using col-major mapping
+image name: large/mobo.ppm
+image size: 49939200 pixels
+rotation amount: 270 degrees
+time per pixel: 140.374759
+total time: 7010203166.000000
+---------------------------------------------
